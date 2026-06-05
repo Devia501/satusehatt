@@ -262,7 +262,7 @@ flowchart TD
 
 ### 6.1 Tim Frontend (4 Orang)
 
-#### 👤 FE-1 — UI/UX Designer & Layout Lead
+#### 👤 Siti — UI/UX Designer & Layout Lead
 **Fokus:** Desain tampilan utama & pengalaman pengguna
 
 | Tugas | Detail |
@@ -275,7 +275,7 @@ flowchart TD
 
 ---
 
-#### 👤 FE-2 — Form & Input Handler
+#### 👤 Nadhira — Form & Input Handler
 **Fokus:** Form pengisian data dan validasi sisi klien
 
 | Tugas | Detail |
@@ -288,7 +288,7 @@ flowchart TD
 
 ---
 
-#### 👤 FE-3 — JavaScript & Integrasi API
+#### 👤 Gurveen — JavaScript & Integrasi API
 **Fokus:** Logika JavaScript dan komunikasi dengan backend
 
 | Tugas | Detail |
@@ -301,7 +301,7 @@ flowchart TD
 
 ---
 
-#### 👤 FE-4 — Screenshot, Testing & Dokumentasi Frontend
+#### 👤 Taqi — Screenshot, Testing & Dokumentasi Frontend
 **Fokus:** QA frontend, dokumentasi tampilan, dan screenshot
 
 | Tugas | Detail |
@@ -316,7 +316,7 @@ flowchart TD
 
 ### 6.2 Tim Backend (4 Orang)
 
-#### 👤 BE-1 — Auth & Environment Setup
+#### 👤 Riris — Auth & Environment Setup
 **Fokus:** Autentikasi SATUSEHAT dan konfigurasi environment
 
 | Tugas | Detail |
@@ -329,7 +329,7 @@ flowchart TD
 
 ---
 
-#### 👤 BE-2 — Patient & Practitioner Service
+#### 👤 Devia — Patient & Practitioner Service
 **Fokus:** Integrasi data pasien dan dokter dari SATUSEHAT
 
 | Tugas | Detail |
@@ -342,7 +342,7 @@ flowchart TD
 
 ---
 
-#### 👤 BE-3 — Location & Encounter Service
+#### 👤 Lilis — Location & Encounter Service
 **Fokus:** Data lokasi faskes dan pembuatan encounter medis
 
 | Tugas | Detail |
@@ -355,7 +355,7 @@ flowchart TD
 
 ---
 
-#### 👤 BE-4 — Routing, Database & Testing
+#### 👤 Safira — Routing, Database & Testing
 **Fokus:** Routing API, database, dan pengujian backend
 
 | Tugas | Detail |
